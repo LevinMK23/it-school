@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a260ffb2-d62f-41ea-b49c-2674b3898849" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson1/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson1/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson1/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson1/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson2/Conditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson2/Plots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson2/Point1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +43,13 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.Task2">
-    <configuration name="DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson1.DataTypes" />
+  <component name="RunManager" selected="Application.Plots">
+    <configuration name="Conditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson2.Conditions" />
       <module name="it-school" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.samsung.lesson1.*" />
+          <option name="PATTERN" value="com.samsung.lesson2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson1.HelloWorld" />
+    <configuration name="DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson1.DataTypes" />
       <module name="it-school" />
       <extension name="coverage">
         <pattern>
@@ -85,6 +83,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Plots" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson2.Plots" />
+      <module name="it-school" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samsung.lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.samsung.lesson1.Task2" />
       <module name="it-school" />
@@ -98,23 +109,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Plots" />
+        <item itemvalue="Application.Conditions" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Input" />
         <item itemvalue="Application.DataTypes" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +143,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1631978224571</updated>
-      <workItem from="1631978225787" duration="4714000" />
+      <workItem from="1631978225787" duration="5395000" />
+      <workItem from="1632582359447" duration="3575000" />
     </task>
     <task id="LOCAL-00001" summary="New code Lesson 1.">
       <created>1631979414514</created>
@@ -138,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631979414514</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lesson 1. Lesson code">
+      <created>1631983639971</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1631983639971</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +168,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New code Lesson 1." />
-    <option name="LAST_COMMIT_MESSAGE" value="New code Lesson 1." />
+    <MESSAGE value="Lesson 1. Lesson code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 1. Lesson code" />
   </component>
 </project>
