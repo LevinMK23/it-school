@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="fml-239-2021" />
+        <module name="fml-239-2021-mon" />
+        <module name="fml-239-2021-tue" />
       </profile>
     </annotationProcessing>
   </component>

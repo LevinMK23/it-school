@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>fml-239-2021</artifactId>
+    <artifactId>fml-239-2021-tue</artifactId>
 
     <properties>
         <maven.compiler.source>15</maven.compiler.source>

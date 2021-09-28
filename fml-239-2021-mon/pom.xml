@@ -2,16 +2,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>it-school</artifactId>
+        <groupId>com.samsung</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.samsung</groupId>
-    <artifactId>it-school</artifactId>
-    <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>fml-239-2021-mon</module>
-        <module>fml-239-2021-tue</module>
-    </modules>
+    <artifactId>fml-239-2021-mon</artifactId>
 
     <properties>
         <maven.compiler.source>15</maven.compiler.source>
