@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a260ffb2-d62f-41ea-b49c-2674b3898849" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fml-239-2021-tue/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/Bits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/Bits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/Conditions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fml-239-2021/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fml-239-2021-mon/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fml-239-2021/src/main/java/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fml-239-2021/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fml-239-2021/src/main/java/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fml-239-2021/src/main/java/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,10 +46,24 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.Bits">
+  <component name="RunManager" selected="Application.Conditions">
+    <configuration name="Bits (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bits" />
+      <module name="fml-239-2021-mon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Bits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bits" />
       <module name="fml-239-2021-tue" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Conditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditions" />
+      <module name="fml-239-2021-mon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -77,40 +82,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task4" />
-      <module name="fml-239-2021-mon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task5" />
-      <module name="fml-239-2021-mon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Conditions" />
+        <item itemvalue="Application.Bits (1)" />
         <item itemvalue="Application.Bits" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.Task4" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +117,8 @@
       <workItem from="1631978225787" duration="5395000" />
       <workItem from="1632582359447" duration="4333000" />
       <workItem from="1632756248110" duration="3748000" />
-      <workItem from="1632842310875" duration="4470000" />
+      <workItem from="1632842310875" duration="5104000" />
+      <workItem from="1633359908592" duration="4000000" />
     </task>
     <task id="LOCAL-00001" summary="New code Lesson 1.">
       <created>1631979414514</created>
@@ -165,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632759984061</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Lesson 1. Lesson code">
+      <created>1632846824388</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1632846824388</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
