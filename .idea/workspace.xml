@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a260ffb2-d62f-41ea-b49c-2674b3898849" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/cycle/ArraysExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/cycle/RepeatNTimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/cycle/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/cycle/Task1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/cycle/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/cycle/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/cycle/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +26,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1yJmmWTXipJwTjDDs0cVtsM6R7R" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -52,7 +56,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.ArraysExample">
+  <component name="RunManager" selected="Application.Task2">
     <configuration name="ArraysExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cycle.ArraysExample" />
       <module name="fml-239-2021-tue" />
@@ -105,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson3.Task6" />
-      <module name="it-school" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cycle.Task2" />
+      <module name="fml-239-2021-tue" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.samsung.lesson3.*" />
+          <option name="PATTERN" value="cycle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task2" />
         <item itemvalue="Application.ArraysExample" />
         <item itemvalue="Application.Task1_1" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.RepeatNTimes" />
-        <item itemvalue="Application.Task6" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +161,7 @@
       <workItem from="1633359908592" duration="4056000" />
       <workItem from="1633446648469" duration="3538000" />
       <workItem from="1633792197789" duration="5999000" />
-      <workItem from="1634051353798" duration="3580000" />
+      <workItem from="1634051353798" duration="5015000" />
     </task>
     <task id="LOCAL-00001" summary="New code Lesson 1.">
       <created>1631979414514</created>
@@ -215,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634051378814</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Lesson 2. Lesson code">
+      <created>1634055151440</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1634055151440</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
