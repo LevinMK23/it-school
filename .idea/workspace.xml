@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a260ffb2-d62f-41ea-b49c-2674b3898849" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/Bits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/Conditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson3/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson3/Cycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson3/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson3/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson3/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson3/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson3/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson3/Task6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +29,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -46,60 +55,79 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.Conditions">
-    <configuration name="Bits (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bits" />
-      <module name="fml-239-2021-mon" />
+  <component name="RunManager" selected="Application.Task6">
+    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson3.Arrays" />
+      <module name="it-school" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samsung.lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bits" />
-      <module name="fml-239-2021-tue" />
+    <configuration name="Task3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson3.Task3" />
+      <module name="it-school" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samsung.lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Conditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditions" />
-      <module name="fml-239-2021-mon" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson3.Task4" />
+      <module name="it-school" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samsung.lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="fml-239-2021-tue" />
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson3.Task5" />
+      <module name="it-school" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samsung.lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task1" />
-      <module name="fml-239-2021-tue" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson3.Task6" />
+      <module name="it-school" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samsung.lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Conditions" />
-        <item itemvalue="Application.Bits (1)" />
-        <item itemvalue="Application.Bits" />
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Task6" />
+        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Arrays" />
+        <item itemvalue="Application.Task3 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +146,9 @@
       <workItem from="1632582359447" duration="4333000" />
       <workItem from="1632756248110" duration="3748000" />
       <workItem from="1632842310875" duration="5104000" />
-      <workItem from="1633359908592" duration="4000000" />
+      <workItem from="1633359908592" duration="4056000" />
+      <workItem from="1633446648469" duration="3538000" />
+      <workItem from="1633792197789" duration="5999000" />
     </task>
     <task id="LOCAL-00001" summary="New code Lesson 1.">
       <created>1631979414514</created>
@@ -162,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632846824388</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Lesson 2. Lesson code">
+      <created>1633363927255</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1633363927255</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,8 +207,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New code Lesson 1." />
-    <MESSAGE value="Lesson 2. Lesson code" />
     <MESSAGE value="Lesson 1. Lesson code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 1. Lesson code" />
+    <MESSAGE value="Lesson 2. Lesson code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 2. Lesson code" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/samsung/lesson3/Task6.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
