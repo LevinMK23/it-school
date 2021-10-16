@@ -5,8 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a260ffb2-d62f-41ea-b49c-2674b3898849" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/Task9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/block_1_8/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/block_1_8/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/block_1_8/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/dop_1_7/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/dop_1_7/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/dop_1_7/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/dop_1_7/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/dop_1_7/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/dop_1_7/Task8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/cycle/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/cycle/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fml-239-2021-tue/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fml-239-2021-tue/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,39 +73,13 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.Task2">
-    <configuration name="ArraysExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cycle.ArraysExample" />
-      <module name="fml-239-2021-tue" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cycle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RepeatNTimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cycle.RepeatNTimes" />
-      <module name="fml-239-2021-tue" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cycle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task6 (1)">
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cycle.Task1" />
-      <module name="fml-239-2021-tue" />
+      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson4.block_1_8.Task1" />
+      <module name="it-school" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cycle.*" />
+          <option name="PATTERN" value="com.samsung.lesson4.block_1_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cycle.Task1_1" />
-      <module name="fml-239-2021-tue" />
+    <configuration name="Task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson4.Task10" />
+      <module name="it-school" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cycle.*" />
+          <option name="PATTERN" value="com.samsung.lesson4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +100,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cycle.Task2" />
-      <module name="fml-239-2021-tue" />
+    <configuration name="Task6 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson4.block_1_8.Task6" />
+      <module name="it-school" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cycle.*" />
+          <option name="PATTERN" value="com.samsung.lesson4.block_1_8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson4.dop_1_7.Task6" />
+      <module name="it-school" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samsung.lesson4.dop_1_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson4.block_1_8.Task7" />
+      <module name="it-school" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samsung.lesson4.block_1_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.ArraysExample" />
-        <item itemvalue="Application.Task1_1" />
+        <item itemvalue="Application.Task6 (1)" />
         <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.RepeatNTimes" />
+        <item itemvalue="Application.Task7" />
+        <item itemvalue="Application.Task10" />
+        <item itemvalue="Application.Task6" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +178,9 @@
       <workItem from="1633359908592" duration="4056000" />
       <workItem from="1633446648469" duration="3538000" />
       <workItem from="1633792197789" duration="5999000" />
-      <workItem from="1634051353798" duration="5015000" />
+      <workItem from="1634051353798" duration="6066000" />
+      <workItem from="1634231282191" duration="1000" />
+      <workItem from="1634396776748" duration="5944000" />
     </task>
     <task id="LOCAL-00001" summary="New code Lesson 1.">
       <created>1631979414514</created>
@@ -226,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634055151440</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Lesson 2. Lesson code">
+      <created>1634056717150</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1634056717150</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
