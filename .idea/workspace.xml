@@ -5,25 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a260ffb2-d62f-41ea-b49c-2674b3898849" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/Task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/Task9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/block_1_8/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/block_1_8/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/block_1_8/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/dop_1_7/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/dop_1_7/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/dop_1_7/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/dop_1_7/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/dop_1_7/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson4/dop_1_7/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/lesson4/FlattenArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/lesson4/MinimumSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/lesson4/ProductArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/lesson4/RowSumOddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/lesson4/RowWeights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/lesson4/StrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/lesson4/Task1r1_7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fml-239-2021-tue/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fml-239-2021-tue/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,13 +62,13 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.Task6 (1)">
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson4.block_1_8.Task1" />
-      <module name="it-school" />
+  <component name="RunManager" selected="Application.RowWeights">
+    <configuration name="FlattenArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson4.FlattenArray" />
+      <module name="fml-239-2021-mon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.samsung.lesson4.block_1_8.*" />
+          <option name="PATTERN" value="lesson4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson4.Task10" />
-      <module name="it-school" />
+    <configuration name="ProductArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson4.ProductArray" />
+      <module name="fml-239-2021-mon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.samsung.lesson4.*" />
+          <option name="PATTERN" value="lesson4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson4.block_1_8.Task6" />
-      <module name="it-school" />
+    <configuration name="RowWeights" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson4.RowWeights" />
+      <module name="fml-239-2021-mon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.samsung.lesson4.block_1_8.*" />
+          <option name="PATTERN" value="lesson4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson4.dop_1_7.Task6" />
-      <module name="it-school" />
+    <configuration name="StrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson4.StrongNumber" />
+      <module name="fml-239-2021-mon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.samsung.lesson4.dop_1_7.*" />
+          <option name="PATTERN" value="lesson4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson4.block_1_8.Task7" />
-      <module name="it-school" />
+    <configuration name="Task1r1_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson4.Task1r1_7" />
+      <module name="fml-239-2021-mon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.samsung.lesson4.block_1_8.*" />
+          <option name="PATTERN" value="lesson4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task6 (1)" />
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.Task7" />
-        <item itemvalue="Application.Task10" />
-        <item itemvalue="Application.Task6" />
+        <item itemvalue="Application.RowWeights" />
+        <item itemvalue="Application.FlattenArray" />
+        <item itemvalue="Application.StrongNumber" />
+        <item itemvalue="Application.Task1r1_7" />
+        <item itemvalue="Application.ProductArray" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +169,7 @@
       <workItem from="1633792197789" duration="5999000" />
       <workItem from="1634051353798" duration="6066000" />
       <workItem from="1634231282191" duration="1000" />
-      <workItem from="1634396776748" duration="5944000" />
+      <workItem from="1634396776748" duration="11963000" />
     </task>
     <task id="LOCAL-00001" summary="New code Lesson 1.">
       <created>1631979414514</created>
@@ -252,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634056717150</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Lesson 4. Lesson code">
+      <created>1634402739949</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1634402739949</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,7 +258,8 @@
     <MESSAGE value="New code Lesson 1." />
     <MESSAGE value="Lesson 1. Lesson code" />
     <MESSAGE value="Lesson 2. Lesson code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 2. Lesson code" />
+    <MESSAGE value="Lesson 4. Lesson code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 4. Lesson code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
