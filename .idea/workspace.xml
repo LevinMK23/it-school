@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a260ffb2-d62f-41ea-b49c-2674b3898849" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/lesson4/FlattenArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/lesson4/MinimumSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/lesson4/ProductArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/lesson4/RowSumOddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/lesson4/RowWeights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/lesson4/StrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/lesson4/Task1r1_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson5/AreSame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson5/BitWars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson5/CreatePhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson5/DuplicateEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson5/Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson5/NumberZooPatrol.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,13 +61,13 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.RowWeights">
-    <configuration name="FlattenArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson4.FlattenArray" />
-      <module name="fml-239-2021-mon" />
+  <component name="RunManager" selected="Application.DuplicateEncoder">
+    <configuration name="AreSame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson5.AreSame" />
+      <module name="it-school" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson4.*" />
+          <option name="PATTERN" value="com.samsung.lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +75,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson4.ProductArray" />
-      <module name="fml-239-2021-mon" />
+    <configuration name="CreatePhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson5.CreatePhoneNumber" />
+      <module name="it-school" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson4.*" />
+          <option name="PATTERN" value="com.samsung.lesson5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuplicateEncoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson5.DuplicateEncoder" />
+      <module name="it-school" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samsung.lesson5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson5.Functions" />
+      <module name="it-school" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samsung.lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,50 +127,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson4.StrongNumber" />
-      <module name="fml-239-2021-mon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task1r1_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson4.Task1r1_7" />
-      <module name="fml-239-2021-mon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DuplicateEncoder" />
+        <item itemvalue="Application.CreatePhoneNumber" />
+        <item itemvalue="Application.AreSame" />
+        <item itemvalue="Application.Functions" />
         <item itemvalue="Application.RowWeights" />
-        <item itemvalue="Application.FlattenArray" />
-        <item itemvalue="Application.StrongNumber" />
-        <item itemvalue="Application.Task1r1_7" />
-        <item itemvalue="Application.ProductArray" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +170,8 @@
       <workItem from="1633792197789" duration="5999000" />
       <workItem from="1634051353798" duration="6066000" />
       <workItem from="1634231282191" duration="1000" />
-      <workItem from="1634396776748" duration="11963000" />
+      <workItem from="1634396776748" duration="12543000" />
+      <workItem from="1635001465246" duration="6373000" />
     </task>
     <task id="LOCAL-00001" summary="New code Lesson 1.">
       <created>1631979414514</created>
@@ -248,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634402739949</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Lesson 4. Lesson code">
+      <created>1634576405960</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1634576405960</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
