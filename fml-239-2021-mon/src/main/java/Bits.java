@@ -1,3 +1,5 @@
+import module2.lesson1.Point;
+
 public class Bits {
 
     public static void main(String[] args) {
@@ -44,6 +46,8 @@ public class Bits {
         // 00000000
         // -x = ~x + 1
         System.out.println(~x + 1);
+
+        Point p = new Point();
 
     }
 }
