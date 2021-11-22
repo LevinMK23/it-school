@@ -1,36 +1,38 @@
 package module2.lesson1;
 
+import module2.lesson1.animals.Animal;
+import module2.lesson1.animals.BlackCat;
+import module2.lesson1.animals.Cat;
+import module2.lesson1.animals.Dog;
+
 public class Test {
 
+    static void say(Animal animal) {
+        animal.say();
+    }
+
     public static void main(String[] args) {
-        // new Point() - конструктор класса
-        // специальная функция создающая ссылку на объект
-        // в оперативной памяти
-        Point p1 = new Point(5, 4);
-
-        double distance = p1.distance();
-        System.out.println(distance);
-
-//        Point p2 = null;
-//        System.out.println(p2.distance());
-//        for (int i = 0; i < 5; i++) {
-//            new Point();
-//        }
-//        System.out.println(Point.cnt);
-
-        Vector v1 = new Vector(2, 2);
-        Vector v2 = new Vector(4, 1);
-        Vector sum = v1.sum(v2);
+        MathUtils utils = new MathUtils();
+        double sum = utils.sum(1, 2.);
         System.out.println(sum);
 
-        Vector v3 = new Vector(3, 4);
-        System.out.println(v3.getLength());
+        Animal cat = new Cat();
+        Animal blackCat = new BlackCat();
+        Animal dog = new Dog();
 
-        Point p3 = new Point(2, 2);
-        Point p4 = new Point(5, 6);
-        Vector v4 = new Vector(p3, p4);
-        System.out.println(v4.getLength());
-        System.out.println(v4);
-        System.out.println(v4.normalize());
+        cat.say();
+        dog.say();
+        blackCat.say();
+
+//        say(cat);
+//        say(dog);
+
+        ShapeProcessor processor = new ShapeProcessor();
+        processor.printShapeParams(new Circle(new Point(0, 0), 4));
+        processor.printShapeParams(new Rectangle(new Point(2,2)));
+        processor.printShapeParams(new Triangle(3, 4, 5));
+        processor.printShapeParams(new Square(5));
+
+        processor.printShapeParams(new Rectangle(new Point(2, 4), new Point(4, 8)));
     }
 }

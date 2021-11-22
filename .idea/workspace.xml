@@ -5,10 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a260ffb2-d62f-41ea-b49c-2674b3898849" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/module2/lesson1/Complex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/module2/lesson1/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/module2/lesson1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/module2/lesson1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/module2/lesson1/MathUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/module2/lesson1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/module2/lesson1/ShapeProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/module2/lesson1/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/module2/lesson1/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/module2/lesson1/animals/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/module2/lesson1/animals/BlackCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/module2/lesson1/animals/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/module2/lesson1/animals/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/module2/lesson1/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/module2/lesson1/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/module2/lesson1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/module2/lesson1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/module2/lesson1/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/module2/lesson1/intro.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +57,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -61,7 +73,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.Test (2)">
+  <component name="RunManager" selected="Application.Test (1)">
     <configuration name="GenerateIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codewars.kyu7.GenerateIntegers" />
       <module name="fml-239-2021-tue" />
@@ -88,9 +100,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson6.Test" />
+      <module name="it-school" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samsung.lesson6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="module2.lesson1.Test" />
-      <module name="fml-239-2021-tue" />
+      <module name="fml-239-2021-mon" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="module2.lesson1.*" />
@@ -102,11 +127,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson6.Test" />
-      <module name="it-school" />
+      <option name="MAIN_CLASS_NAME" value="module2.lesson1.Test" />
+      <module name="fml-239-2021-tue" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.samsung.lesson6.*" />
+          <option name="PATTERN" value="module2.lesson1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,23 +152,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Zeroes" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.GenerateIntegers" />
@@ -177,7 +200,8 @@
       <workItem from="1635607740506" duration="1965000" />
       <workItem from="1636988912917" duration="1009000" />
       <workItem from="1636989930968" duration="3760000" />
-      <workItem from="1637075927757" duration="1891000" />
+      <workItem from="1637075927757" duration="3007000" />
+      <workItem from="1637596278647" duration="3278000" />
     </task>
     <task id="LOCAL-00001" summary="New code Lesson 1.">
       <created>1631979414514</created>
@@ -284,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636992805789</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Lesson 4 tue. Lesson code">
+      <created>1637078118425</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1637078118425</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,7 +326,8 @@
     <MESSAGE value="Lesson 1. Lesson code" />
     <MESSAGE value="Lesson 2. Lesson code" />
     <MESSAGE value="Lesson 4. Lesson code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 4. Lesson code" />
+    <MESSAGE value="Lesson 4 tue. Lesson code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 4 tue. Lesson code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
