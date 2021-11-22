@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a260ffb2-d62f-41ea-b49c-2674b3898849" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/lesson5/Functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/lesson5/test/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/samsung/lesson5/NumberZooPatrol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson5/NumberZooPatrol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/module2/lesson1/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/module2/lesson1/intro.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
