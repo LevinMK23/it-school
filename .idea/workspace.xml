@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a260ffb2-d62f-41ea-b49c-2674b3898849" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/module2/lesson1/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/fml-239-2021-mon/src/main/java/module2/lesson1/intro.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/module2/lesson2/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/module2/lesson2/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/module2/lesson2/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/module2/lesson2/animals/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/module2/lesson2/animals/AnimalRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/module2/lesson2/animals/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/module2/lesson2/animals/CatApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/module2/lesson2/animals/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/module2/lesson2/animals/hw2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/module2/lesson1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/module2/lesson1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/module2/lesson1/Vector.java" beforeDir="false" afterPath="$PROJECT_DIR$/fml-239-2021-tue/src/main/java/module2/lesson1/Vector.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,26 +69,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="CreatePhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson5.CreatePhoneNumber" />
-      <module name="it-school" />
+  <component name="RunManager" selected="Application.CatApplication">
+    <configuration name="CatApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module2.lesson2.animals.CatApplication" />
+      <module name="fml-239-2021-tue" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.samsung.lesson5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DuplicateEncoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.samsung.lesson5.DuplicateEncoder" />
-      <module name="it-school" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.samsung.lesson5.*" />
+          <option name="PATTERN" value="module2.lesson2.animals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,24 +122,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module2.lesson1.Test" />
+      <module name="fml-239-2021-tue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module2.lesson1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CatApplication" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Functions (1)" />
         <item itemvalue="Application.NumberZooPatrol" />
-        <item itemvalue="Application.DuplicateEncoder" />
-        <item itemvalue="Application.CreatePhoneNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +181,7 @@
       <workItem from="1634396776748" duration="12543000" />
       <workItem from="1635001465246" duration="11524000" />
       <workItem from="1635174371341" duration="4622000" />
+      <workItem from="1637680775363" duration="4719000" />
     </task>
     <task id="LOCAL-00001" summary="New code Lesson 1.">
       <created>1631979414514</created>
@@ -260,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635008493950</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Lesson 4. Lesson code">
+      <created>1637600348022</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1637600348022</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
