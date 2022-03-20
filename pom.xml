@@ -14,8 +14,10 @@
     </modules>
 
     <properties>
-        <maven.compiler.source>15</maven.compiler.source>
-        <maven.compiler.target>15</maven.compiler.target>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+        <kotlin.version>1.6.20-M1</kotlin.version>
     </properties>
+
 
 </project>

@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a260ffb2-d62f-41ea-b49c-2674b3898849" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/thread/sync/BracketPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/thread/sync/LeftBracketPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/thread/sync/RightBracketPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/thread/sync/RunHistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/thread/sync/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/thread/sync/TriangleBracketPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/module4/bs/Cows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/module4/bs/IntBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/round/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/round/InfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/thread/Ф.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/samsung/lesson5/NumberZooPatrol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/samsung/lesson5/NumberZooPatrol.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +27,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -65,22 +67,9 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="FilesExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="module3.FilesExamples" />
-      <module name="fml-239-2021-tue" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="module3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HardWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.samsung.thread.HardWork" />
+  <component name="RunManager" selected="Application.Cows">
+    <configuration name="Ф" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.thread.Ф" />
       <module name="it-school" />
       <extension name="coverage">
         <pattern>
@@ -92,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HardWorkV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.samsung.thread.HardWorkV2" />
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.round.A" />
       <module name="it-school" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.samsung.thread.*" />
+          <option name="PATTERN" value="com.samsung.round.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +94,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParallelPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.samsung.thread.ParallelPrint" />
+    <configuration name="Cows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.module4.bs.Cows" />
       <module name="it-school" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.samsung.thread.*" />
+          <option name="PATTERN" value="com.samsung.module4.bs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.module4.bs.IntBinarySearch" />
+      <module name="it-school" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samsung.module4.bs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cows" />
+        <item itemvalue="Application.IntBinarySearch" />
+        <item itemvalue="Application.A" />
+        <item itemvalue="Application.Ф" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.HardWorkV2" />
-        <item itemvalue="Application.HardWork" />
-        <item itemvalue="Application.ParallelPrint" />
-        <item itemvalue="Application.FilesExamples" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +183,11 @@
       <workItem from="1640445696974" duration="3842000" />
       <workItem from="1642260230035" duration="82000" />
       <workItem from="1642260330923" duration="4735000" />
-      <workItem from="1642864450113" duration="4022000" />
+      <workItem from="1642864450113" duration="4277000" />
+      <workItem from="1644680956869" duration="2484000" />
+      <workItem from="1644687189467" duration="273000" />
+      <workItem from="1646496297924" duration="1009000" />
+      <workItem from="1647702945076" duration="4754000" />
     </task>
     <task id="LOCAL-00001" summary="New code Lesson 1.">
       <created>1631979414514</created>
@@ -302,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642264824321</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Threads">
+      <created>1642868921653</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1642868921653</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,6 +353,10 @@
           <line>23</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="12" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

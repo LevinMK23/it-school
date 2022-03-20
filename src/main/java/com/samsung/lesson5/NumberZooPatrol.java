@@ -28,7 +28,7 @@ public class NumberZooPatrol {
             // System.out.println(row.length());
             if (row.length() < 58) {
                 int diff = 58 - row.length();
-                row.append(" ".repeat(Math.max(0, diff)));
+               // row.append(" ".repeat(Math.max(0, diff)));
             }
             StringBuilder s = new StringBuilder();
             for (byte b : part) {
