@@ -2,9 +2,7 @@ package com.samsung.module4.sort;
 
 import com.samsung.module4.hashTable.Table;
 
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
+import java.util.*;
 
 public class Main {
 
@@ -49,5 +47,8 @@ public class Main {
 
         System.out.println(table.contains(173));
         System.out.println(table.contains(12));
+
+        HashSet<Integer> set = new HashSet<>();
+
     }
 }
